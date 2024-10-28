@@ -1,8 +1,9 @@
 {
+  "type": "module",
   "name": "@cesar-bravo-m/test-package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test-package",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
